@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/Layout.tsx","./src/lib/supabase.ts","./src/pages/Appointments.tsx","./src/pages/Campaign.tsx","./src/pages/Customers.tsx","./src/pages/Dashboard.tsx","./src/pages/DeskLog.tsx","./src/pages/SalesReps.tsx","./src/pages/Vehicles.tsx"],"version":"5.9.3"}
